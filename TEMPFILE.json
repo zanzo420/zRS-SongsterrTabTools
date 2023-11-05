@@ -1,0 +1,5261 @@
+[
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Last Resort",
+    "songId": 264,
+    "tracks": [
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 66,
+        "views": 0.08486306051598504
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 70.3469469998302
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.21922426518955176
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 5.275562416837881
+      },
+      {
+        "instrumentId": 1024,
+        "views": 6.1187659840566875
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Between Angels And Insects",
+    "songId": 14907,
+    "tracks": [
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 66,
+        "views": 0
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 12.416578001700184
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 27,
+        "views": 8.563681042711304E-05
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.02472600370870905
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 1.9567220612509755
+      },
+      {
+        "instrumentId": 1024,
+        "views": 1.152106483229534
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Last Resort (E Standard)",
+    "songId": 509675,
+    "tracks": [
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 66,
+        "views": 4.7442728679051E-06
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 7.026430273705007
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 0.25125282531457427
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 0.5161472920423752
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.001000933367635728
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Scars",
+    "songId": 15590,
+    "tracks": [
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 3.667391546637422
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0.7116806890103002
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 0.30394207658497263
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 95,
+        "views": 5.7995713676009734E-27
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 25,
+        "views": 0.002377127178651176
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.40852920678093907
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Blood Brothers",
+    "songId": 23400,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 4.1435295036698845
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 32,
+        "views": 0.7530654236731581
+      },
+      {
+        "instrumentId": 1024,
+        "views": 3.9088456653161335E-07
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "She Loves Me Not",
+    "songId": 15000,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 2.3122734471004946
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 0.0373461659398156
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 0.32338025183673
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.449440688636706
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Getting Away With Murder",
+    "songId": 15900,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 1.0696894416485039
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 0.17035503052187198
+      },
+      {
+        "tuning": [
+          41,
+          36,
+          31,
+          24
+        ],
+        "instrumentId": 33,
+        "views": 1.3508114819470505
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.3728187820859249
+      },
+      {
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 57,
+        "views": 4.312118546439398E-12
+      },
+      {
+        "tuning": [
+          41,
+          36,
+          31,
+          24
+        ],
+        "instrumentId": 36,
+        "views": 0.0004887150835559763
+      },
+      {
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 35,
+        "views": 5.69577651164066E-62
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Forever",
+    "songId": 23531,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 1.3441757170286492
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 1.1696923098724212E-22
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0.508204584594075
+      },
+      {
+        "instrumentId": 1024,
+        "views": 6.842986427000145E-05
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "...To Be Loved",
+    "songId": 31624,
+    "tracks": [
+      {
+        "instrumentId": 1024,
+        "views": 0.0041620616075823845
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 1.142132366816066
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 0.2632459419441987
+      },
+      {
+        "tuning": [
+          44,
+          39,
+          34,
+          29,
+          24
+        ],
+        "instrumentId": 33,
+        "views": 0.006286326090060516
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40,
+          35
+        ],
+        "instrumentId": 16,
+        "views": 0
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Take Me",
+    "songId": 15585,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.9287795697435124
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 2.3509267532809735E-39
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0.008533425158968592
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.4558888097915159
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Between Angels And Insects (4-Strings Bass)",
+    "songId": 473383,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.3085138941413373
+      },
+      {
+        "instrumentId": 1024,
+        "views": 5.419810430776297E-20
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0.8862100216437592
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Lifeline",
+    "songId": 23932,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 0.14990667031224333
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 0.46932838957706885
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 34,
+        "views": 0.12660879979311987
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.21001045536116159
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Not Listening",
+    "songId": 15167,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          65,
+          60,
+          56,
+          51,
+          46,
+          39
+        ],
+        "instrumentId": 30,
+        "views": 0.9273021272268265
+      },
+      {
+        "tuning": [
+          44,
+          39,
+          34,
+          27
+        ],
+        "instrumentId": 33,
+        "views": 0.011381061485191203
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.004663292320836587
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Face Everything and Rise",
+    "songId": 448175,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 0.7136334770174138
+      },
+      {
+        "tuning": [
+          41,
+          36,
+          31,
+          24
+        ],
+        "instrumentId": 33,
+        "views": 3.2792302116912667E-09
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.02886179811995204
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 86,
+        "views": 2.9198236124897066E-14
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 86,
+        "views": 1.2271186175094807E-114
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Dead Cell",
+    "songId": 24514,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.401398443856015
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 1.7372663830949883E-13
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 3.054672244135596E-45
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0.3129000000398557
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "The Fire",
+    "songId": 62641,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 26,
+        "views": 0.21005747436941416
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.39164768378051795
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 1.1364560767969917E-06
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Help",
+    "songId": 433607,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.08211535261771312
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 0.43521546227495816
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 33,
+        "views": 0.014663527231477652
+      },
+      {
+        "difficulty": "INSANE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 3.450688027370129E-26
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Where Did Angels Go",
+    "songId": 389777,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.5256160987582962
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 7.707727403168508E-09
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 27,
+        "views": 1.698490121464316E-116
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 6.405207117131163E-32
+      },
+      {
+        "instrumentId": 1024,
+        "views": 5.56883655772359E-07
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Broken As Me",
+    "songId": 397971,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 29,
+        "views": 5.958829280825045E-93
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 0.4919451319635323
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Where Did The Angels Go Drop F",
+    "songId": 460151,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          55,
+          50,
+          46,
+          41,
+          36,
+          29
+        ],
+        "instrumentId": 30,
+        "views": 0.44700676180208715
+      },
+      {
+        "tuning": [
+          34,
+          29,
+          24,
+          17
+        ],
+        "instrumentId": 33,
+        "views": 1.2326704325365585E-46
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          55,
+          50,
+          46,
+          41,
+          36,
+          31
+        ],
+        "instrumentId": 27,
+        "views": 2.2777918027049867E-120
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          55,
+          50,
+          46,
+          41,
+          36,
+          29
+        ],
+        "instrumentId": 30,
+        "views": 4.9518662433360873E-116
+      },
+      {
+        "instrumentId": 1024,
+        "views": 1.0060314948600961E-25
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Blood (Empty Promises)",
+    "songId": 15958,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.07493667031221522
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 4.9073475404232775E-15
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 26,
+        "views": 2.0722077747311328E-36
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 0.15910608209999996
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.21
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 4
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Broken Home",
+    "songId": 31656,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.04812793372175741
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 0.17493473865687786
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.10289999999999999
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 1.918934689056547E-07
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Revenge",
+    "songId": 15791,
+    "tracks": [
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.3057098572643809
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 2.0325644170151987E-27
+      },
+      {
+        "instrumentId": 1024,
+        "views": 3.89805157900878E-07
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Decompression Period",
+    "songId": 31605,
+    "tracks": [
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 22,
+        "views": 1.2780083960686643E-133
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 0.3020351413007917
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 4.2600279868955553E-134
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 9.068049095327885E-89
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 1.313100414808201E-42
+      },
+      {
+        "tuning": [
+          42,
+          37,
+          32,
+          25,
+          20
+        ],
+        "instrumentId": 33,
+        "views": 0.0014242684529828988
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.00011729463145748948
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Change Or Die",
+    "songId": 31611,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.30000019100467934
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 8.706963039990071E-69
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 34,
+        "views": 4.9073475404232775E-15
+      },
+      {
+        "instrumentId": 1024,
+        "views": 1.2468049976063695E-44
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Harder Than A Coffin Nail",
+    "songId": 15868,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 30,
+        "views": 1.0197509063985185E-58
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 0.30000000010703914
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 2.1608344113906503E-47
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Live This Down",
+    "songId": 31615,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.3000000000000058
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "I Almost Told You That I Loved You",
+    "songId": 31613,
+    "tracks": [
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 0.2252623461986817
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.006196852684072073
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0.03458883831979496
+      },
+      {
+        "instrumentId": 1024,
+        "views": 2.3297934298828093E-17
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 2.2777921509042014E-120
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 2.277793252930789E-120
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Never Enough",
+    "songId": 15463,
+    "tracks": [
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 0.00034196688123575236
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 9.109075391050556E-21
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 1.0445648873690648E-14
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0.23963986280569685
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 3
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Crooked Teeth",
+    "songId": 433223,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.23761296207248378
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 7.777623325748401E-31
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0.00016756916077040635
+      },
+      {
+        "instrumentId": 1024,
+        "views": 2.4930398322541447E-24
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 91,
+        "views": 0
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 119,
+        "views": 0
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 102,
+        "views": 2.9820195908268887E-134
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "I Devise My Own Demise",
+    "songId": 27708,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 6.581089815640402E-19
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 0.21416204587758192
+      },
+      {
+        "tuning": [
+          41,
+          36,
+          31,
+          24
+        ],
+        "instrumentId": 34,
+        "views": 3.776776589559553E-09
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "No Matter What (With Solo)",
+    "songId": 383226,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 27,
+        "views": 1.0031380960332202E-14
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 27,
+        "views": 6.701024108180119E-63
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.2100035861984023
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.0003419668768992891
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 1.4436914284538293E-36
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 4.063361426236834E-52
+      },
+      {
+        "instrumentId": 1024,
+        "views": 1.2551346833760509E-11
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Into The Light",
+    "songId": 27724,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.17935470003659285
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 34,
+        "views": 2.3193104162209567E-06
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "My Heart Is A Fist",
+    "songId": 62427,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 1.9101032298162515E-07
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0.16548455646941412
+      },
+      {
+        "instrumentId": 1024,
+        "views": 1.7689264666698967E-57
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Leader Of The Broken Hearts",
+    "songId": 408473,
+    "tracks": [
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0.14734196685556117
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Kick In The Teeth",
+    "songId": 62172,
+    "tracks": [
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 73,
+        "views": 5.905263228164731E-71
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 52,
+        "views": 0
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.10888947674748133
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 1.5730015148942995E-08
+      },
+      {
+        "instrumentId": 1024,
+        "views": 4.776196402788206E-28
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.017294402999999993
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 81,
+        "views": 8.946058772480643E-135
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 37,
+        "views": 5.985788628905197E-25
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "One Track Mind",
+    "songId": 64156,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.1173199527516812
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 2.3615651935176894E-50
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0.00012701879189880712
+      },
+      {
+        "instrumentId": 1024,
+        "views": 2.435999693883049E-10
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Binge",
+    "songId": 14762,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 7.955570766713993E-07
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 1.2174088908594228E-19
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 0.10404996139752809
+      },
+      {
+        "instrumentId": 1024,
+        "views": 4.463446941592802E-21
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Between Angels And Insects - 2",
+    "songId": 436306,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.04970302805592651
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 27,
+        "views": 8.946058772480643E-135
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 2.5847345314841742E-112
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 1.6235086811385596E-06
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.03541199463145747
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "No Matter What",
+    "songId": 62304,
+    "tracks": [
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 26,
+        "views": 0.018044133700655992
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 0.05044916244188097
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 25,
+        "views": 1.1467647563094479E-28
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 3.7767814969070934E-09
+      },
+      {
+        "instrumentId": 1024,
+        "views": 1.6981339146274005E-11
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Infest",
+    "songId": 31614,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.014880165741503902
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 1.8093141948168391E-112
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 0.05042390014331588
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 94,
+        "views": 0
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 119,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Still Swinging",
+    "songId": 268449,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 0.05115443359717853
+      },
+      {
+        "tuning": [
+          42,
+          37,
+          32,
+          25
+        ],
+        "instrumentId": 33,
+        "views": 3.768271333272665E-09
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.002906670312209998
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Burn",
+    "songId": 84212,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 0.050475625037318714
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 31,
+        "views": 1.7769312326510353E-68
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 1.4051081058592788E-49
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Scars (Acoustic)",
+    "songId": 32793,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 25,
+        "views": 0.00676480768742195
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 25,
+        "views": 0.03529469999999999
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Snakes",
+    "songId": 14953,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.0024198370993343222
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 0.024706290008787306
+      },
+      {
+        "instrumentId": 1024,
+        "views": 1.822648040106812E-37
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Tightrope",
+    "songId": 15202,
+    "tracks": [
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 3.254640531998008E-08
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 0.0004885240793731342
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 8.628693027755909E-47
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 5.4689729896202814E-42
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 0.017294402999999993
+      },
+      {
+        "instrumentId": 1024,
+        "views": 8.667739686682493E-58
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 4
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Sometimes",
+    "songId": 15644,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 25,
+        "views": 0.00034196706024320164
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 0.014140751319668016
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 29,
+        "views": 3.5776019438704205E-35
+      },
+      {
+        "tuning": [
+          42,
+          37,
+          32,
+          25
+        ],
+        "instrumentId": 33,
+        "views": 2.377827244151046E-105
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Thrown Away",
+    "songId": 15987,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.012108401398115906
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 2.1543840412293644E-13
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "M80 (Explosive Energy Movement)",
+    "songId": 15695,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.01210608300680896
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 2.128640258041256E-113
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Born With Nothing, Die With Everything",
+    "songId": 31608,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.009170713135605644
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 1.4766520605655393E-12
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0.00015545381871061583
+      },
+      {
+        "instrumentId": 1024,
+        "views": 1.3916262021619474E-05
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Time Is Running Out",
+    "songId": 31623,
+    "tracks": [
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 62,
+        "views": 2.087413713578822E-134
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 5.869723872762834E-06
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.008478990738901331
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 5.087836385269062E-24
+      },
+      {
+        "instrumentId": 1024,
+        "views": 3.481988873657018E-48
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Time And Time Again",
+    "songId": 31658,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 3.2102071327079316E-08
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.00847426286540003
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 2.9198236094622944E-14
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Be Free",
+    "songId": 14989,
+    "tracks": [
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 0.004178506708943363
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 29,
+        "views": 5.742344938020682E-41
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 29,
+        "views": 1.8666165242017324E-40
+      },
+      {
+        "tuning": [
+          41,
+          36,
+          31,
+          24
+        ],
+        "instrumentId": 33,
+        "views": 1.2954349475642832E-09
+      },
+      {
+        "instrumentId": 1024,
+        "views": 1.3372802366134082E-07
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Life Is A Bullet",
+    "songId": 14804,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 0.0029689228987181595
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 1.498431270404286E-07
+      },
+      {
+        "instrumentId": 1024,
+        "views": 4.174827427157644E-134
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Do Or Die",
+    "songId": 15195,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 0.002012508691753912
+      },
+      {
+        "instrumentId": 1024,
+        "views": 9.444109733509407E-109
+      },
+      {
+        "tuning": [
+          42,
+          37,
+          32,
+          25
+        ],
+        "instrumentId": 33,
+        "views": 2.9463090380202555E-36
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 3.138551487416334E-32
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          61,
+          56,
+          52,
+          47,
+          42,
+          35
+        ],
+        "instrumentId": 30,
+        "views": 1.2051557608499454E-70
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Legacy",
+    "songId": 31604,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.0014242684537064578
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 1.9448719636321058E-51
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Addict",
+    "songId": 408475,
+    "tracks": [
+      {
+        "difficulty": "VERY_HARD",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 0.0014242684529828988
+      },
+      {
+        "difficulty": "VERY_HARD",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 25,
+        "views": 0
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 0
+      },
+      {
+        "difficulty": "VERY_HARD",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 25,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "The World Around You",
+    "songId": 31625,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.0010604326898549785
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 1.2601106805462961E-20
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 1.1224911977578374E-12
+      },
+      {
+        "instrumentId": 1024,
+        "views": 2.0346711266119838E-82
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 48,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Deathtrap Cabinet",
+    "artistId": 56166,
+    "title": "Last Resort (By Papa Roach)",
+    "songId": 437273,
+    "tracks": [
+      {
+        "tuning": [
+          60,
+          55,
+          51,
+          46,
+          41,
+          34
+        ],
+        "instrumentId": 66,
+        "views": 1.2954343702189266E-09
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          60,
+          55,
+          51,
+          46,
+          41,
+          34
+        ],
+        "instrumentId": 30,
+        "views": 0.00033512756968031465
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          60,
+          55,
+          51,
+          46,
+          41,
+          34
+        ],
+        "instrumentId": 30,
+        "views": 4.1711804965775315E-93
+      },
+      {
+        "tuning": [
+          39,
+          34,
+          29,
+          22
+        ],
+        "instrumentId": 33,
+        "views": 9.35920863971283E-08
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0.00017242313385747976
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "The Enemy",
+    "songId": 62957,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0.0004918560996010569
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 34,
+        "views": 9.65971726744344E-06
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Code Of Energy",
+    "songId": 47395,
+    "tracks": [
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 29,
+        "views": 1.9802935976576397E-95
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 29,
+        "views": 1.1467647563094479E-28
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 0.00011729463145748948
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Before I Die",
+    "songId": 408474,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 26,
+        "views": 5.632488202589203E-05
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 26,
+        "views": 5.6324882025886436E-05
+      },
+      {
+        "instrumentId": 1024,
+        "views": 4.078070957316609E-38
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 3.0135756338072235E-12
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Last Resort (Bouzouki)",
+    "songId": 443720,
+    "tracks": [
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 66,
+        "views": 4.190052040233637E-25
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          61,
+          56,
+          52,
+          47
+        ],
+        "instrumentId": 25,
+        "views": 4.9295543248852053E-26
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 4.023205858992179E-05
+      },
+      {
+        "instrumentId": 1024,
+        "views": 7.243842875782328E-13
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          61,
+          56,
+          52,
+          47
+        ],
+        "instrumentId": 25,
+        "views": 3.167020974317226E-54
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Done With You",
+    "songId": 14939,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 2.326615104022333E-05
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 34,
+        "views": 4.1789177078956947E-35
+      },
+      {
+        "instrumentId": 1024,
+        "views": 2.4484219262628175E-59
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Had Enough",
+    "songId": 31603,
+    "tracks": [
+      {
+        "instrumentId": 1024,
+        "views": 4.4968520747624435E-13
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 9.659720749883604E-06
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 25,
+        "views": 2.393770233747732E-83
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 2.356547171298024E-16
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 8.865639442990716E-113
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 2.277791802704975E-120
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 2.973034712532094E-58
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 9.703877992617267E-17
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "No More Secrets",
+    "songId": 81785,
+    "tracks": [
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 2.893670692523557E-06
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 1.6235086811385596E-06
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 6.761808457465043E-85
+      },
+      {
+        "instrumentId": 1024,
+        "views": 3.0453760246691715E-14
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Alive ('N' Out Of Control)",
+    "songId": 31626,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 2.34306501024309E-06
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 1.6832202063653138E-15
+      },
+      {
+        "tuning": [
+          41,
+          36,
+          31,
+          24
+        ],
+        "instrumentId": 33,
+        "views": 1.0455089894021406E-10
+      },
+      {
+        "instrumentId": 1024,
+        "views": 3.2102071327079316E-08
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Gravity",
+    "songId": 408477,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 1.6235101582829094E-06
+      },
+      {
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 33,
+        "views": 7.501715274735205E-22
+      },
+      {
+        "tuning": [
+          36,
+          36,
+          36,
+          36,
+          36,
+          36
+        ],
+        "instrumentId": 0,
+        "views": 4.4836449819918137E-32
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Stop Looking Start Seeing",
+    "songId": 408476,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 5.568634788094381E-07
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 0
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Black Clouds",
+    "songId": 31610,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 29,
+        "views": 0
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 27,
+        "views": 2.2269466893237205E-65
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28,
+          23
+        ],
+        "instrumentId": 33,
+        "views": 1.3491453815468627E-07
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Tyranny Of Normality",
+    "songId": 16172,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 4.3245895717507704E-23
+      },
+      {
+        "instrumentId": 1024,
+        "views": 3.864912997366153E-09
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Never Said It",
+    "songId": 62468,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 1.850620933025353E-09
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 0
+      },
+      {
+        "tuning": [
+          42,
+          37,
+          32,
+          25
+        ],
+        "instrumentId": 33,
+        "views": 3.1311205703682333E-133
+      },
+      {
+        "instrumentId": 1024,
+        "views": 2.504321360709294E-35
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "SOS",
+    "songId": 31602,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 3.228434996787905E-32
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 9.027199112177282E-78
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 3.545441597417859E-13
+      },
+      {
+        "instrumentId": 1024,
+        "views": 1.5872700344063832E-30
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Blanket Of Fear",
+    "songId": 15182,
+    "tracks": [
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 2.043876526623606E-14
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 3.545258660577458E-111
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 3.0823808708245715E-67
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Walking Through Barbed Wire",
+    "songId": 408472,
+    "tracks": [
+      {
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          38
+        ],
+        "instrumentId": 81,
+        "views": 2.4725244275908545E-15
+      },
+      {
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          38
+        ],
+        "instrumentId": 81,
+        "views": 0
+      },
+      {
+        "tuning": [
+          41,
+          36,
+          31,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Coffin Nail",
+    "songId": 49914,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 6.792401178995586E-17
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 29,
+        "views": 0
+      },
+      {
+        "tuning": [
+          42,
+          37,
+          32,
+          25
+        ],
+        "instrumentId": 34,
+        "views": 0
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Love Hate Tragedy",
+    "songId": 15189,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 27,
+        "views": 0
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 26,
+        "views": 0
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 1.904953310050679E-17
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 29,
+        "views": 0
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      },
+      {
+        "tuning": [
+          42,
+          37,
+          32,
+          25
+        ],
+        "instrumentId": 33,
+        "views": 2.6797967649139375E-42
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Orange Drive Palms",
+    "songId": 31657,
+    "tracks": [
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 2.187089001380473E-21
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 27,
+        "views": 3.915683817603851E-18
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 4.463446941592802E-21
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Walking Thru Barbed Wire",
+    "songId": 15922,
+    "tracks": [
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 68,
+        "views": 0
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 2.741643021389716E-18
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 1.4051081058592788E-49
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 1.2780071975835437E-55
+      },
+      {
+        "instrumentId": 1024,
+        "views": 1.1364571425387978E-85
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "March Out Of The Darkness",
+    "songId": 78174,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 25,
+        "views": 6.581089792246791E-19
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Fear Hate Love",
+    "songId": 401506,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 1.5309623009669512E-21
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 8.946058772480643E-135
+      },
+      {
+        "tuning": [
+          41,
+          36,
+          31,
+          24
+        ],
+        "instrumentId": 34,
+        "views": 3.8988329949915784E-53
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Singular Indestructible Droid",
+    "songId": 31654,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 7.505905329444018E-22
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          62,
+          57,
+          53,
+          48,
+          43,
+          36
+        ],
+        "instrumentId": 30,
+        "views": 8.727634983244561E-45
+      },
+      {
+        "tuning": [
+          41,
+          36,
+          31,
+          24
+        ],
+        "instrumentId": 33,
+        "views": 2.6983145363010034E-29
+      },
+      {
+        "instrumentId": 1024,
+        "views": 2.2777918027049836E-119
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "State Of Emergency",
+    "songId": 78178,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 27,
+        "views": 1.690837133411363E-26
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Crash",
+    "songId": 31627,
+    "tracks": [
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 2.9596417457799594E-47
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 1.811374898337975E-33
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 4.005085772588639E-73
+      },
+      {
+        "instrumentId": 1024,
+        "views": 8.688319861692437E-34
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Caught Dead",
+    "songId": 47392,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 1.7530249524965058E-35
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0
+      },
+      {
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 34,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Days Of War",
+    "songId": 31612,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 4.9518615995966335E-37
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 0
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 0
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Carry Me",
+    "songId": 59813,
+    "tracks": [
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 2.0407691628163888E-39
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 3.6153541538655065E-37
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 2.27779180959071E-120
+      },
+      {
+        "instrumentId": 1024,
+        "views": 2.584734532427941E-112
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 7.301235303798899E-114
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "What Do You Do?",
+    "songId": 31622,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 5.644959457984018E-40
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          26
+        ],
+        "instrumentId": 33,
+        "views": 2.5792359182659255E-72
+      },
+      {
+        "instrumentId": 1024,
+        "views": 6.858645058901832E-134
+      }
+    ],
+    "hasChords": true,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Gouge Away",
+    "songId": 49910,
+    "tracks": [
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 28,
+        "views": 5.644575134627616E-40
+      },
+      {
+        "difficulty": "VERY_EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 9.233303064701514E-54
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 34,
+        "views": 2.125401621531204E-59
+      },
+      {
+        "instrumentId": 1024,
+        "views": 2.087413713578822E-134
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "M 80 Explosive Energy Movement",
+    "songId": 408471,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 3.8282810927341966E-42
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 0
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Intensive Care Unit",
+    "songId": 31664,
+    "tracks": [
+      {
+        "instrumentId": 1024,
+        "views": 0
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 0
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 6.434192032558362E-43
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 2
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Nights Of Love",
+    "songId": 59814,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 2.638084943204687E-53
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 1.2926616221702965E-53
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 29,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Lifeline (Live)",
+    "songId": 55386,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 30,
+        "views": 5.157220019445764E-57
+      },
+      {
+        "tuning": [
+          43,
+          38,
+          33,
+          28
+        ],
+        "instrumentId": 33,
+        "views": 0
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Not Coming Home",
+    "songId": 59409,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 25,
+        "views": 1.2382485266689855E-57
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 25,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "라이프라인",
+    "songId": 496407,
+    "tracks": [
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 3.692477902120249E-112
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          38
+        ],
+        "instrumentId": 30,
+        "views": 5.274968431600356E-112
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 1
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Carry Me Fingerstyle",
+    "songId": 394845,
+    "tracks": [
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 25,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "White Light",
+    "songId": 31653,
+    "tracks": [
+      {
+        "instrumentId": 1024,
+        "views": 0
+      },
+      {
+        "difficulty": "BELOW_INTERMEDIATE",
+        "tuning": [
+          64,
+          59,
+          55,
+          50,
+          45,
+          40
+        ],
+        "instrumentId": 29,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  },
+  {
+    "hasPlayer": true,
+    "artist": "Papa Roach",
+    "artistId": 127,
+    "title": "Last Resort Drop C#",
+    "songId": 571147,
+    "tracks": [
+      {
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 66,
+        "views": 0
+      },
+      {
+        "difficulty": "INTERMEDIATE",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 0
+      },
+      {
+        "difficulty": "EASY",
+        "tuning": [
+          63,
+          58,
+          54,
+          49,
+          44,
+          37
+        ],
+        "instrumentId": 30,
+        "views": 0
+      },
+      {
+        "tuning": [
+          42,
+          37,
+          32,
+          27,
+          22
+        ],
+        "instrumentId": 33,
+        "views": 0
+      },
+      {
+        "instrumentId": 1024,
+        "views": 0
+      }
+    ],
+    "hasChords": false,
+    "defaultTrack": 0
+  }
+]

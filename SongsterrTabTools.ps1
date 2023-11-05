@@ -49,6 +49,48 @@ function Get-SongsterrTabs($startIndex = 0)
     #$pageCount += $songIndex | out-file H:\.midi\PageCount.txt -Force
 }
 
+function Search-SongsterrTabs($pattern, $instrument = "any", $startIndex = 0)
+{
+    $prefix = "http://www.songsterr.com/a/wsa/"
+    $apiURL = "https://www.songsterr.com/api/songs?size=500&inst=$($instrument)&pattern=$($pattern)&from="
+    $songLinks = @()
+    $results = ''
+    
+    #[int]$pageCount = [int]$(gc -Path "H:\.midi\PageCount.txt")
+    $pageMax = 21
+    $songIndex = $startIndex
+    $sIndx = 0
+    for($i=0; $i -lt $pageMax; $i++)
+    {
+        $webAPIDataPage = Invoke-RestMethod -Uri "$($apiURL)$($songIndex)" -UseBasicParsing
+        $results = ConvertFrom-Json -InputObject $webAPIDataPage -Depth 10 | out-file ".\SearchResults_$($pattern)-pg$($i).json" -Force
+        write-host $results
+        #loop through all songs in the JSON data...
+        $indx = 0
+        foreach($songJSON in $webAPIDataPage)
+        {
+            $songLinks += "$($prefix)$(CleanText($songJSON.artist))-$(CleanText($songJSON.title))-tab-s$($songJSON.songId)"
+            write-host "$($prefix)$(CleanText($songJSON.artist))-$(CleanText($songJSON.title))-tab-s$($songJSON.songId)" | out-file ".\songsterr_LINKS.txt" -Append -Force
+            $saveLinks = $songLinks
+            $saveLinks | out-file ".\SearchResults-pg$($i).txt" -Force -Append
+            $indx++
+        }##END## SongJSON Loop ###############################################
+
+        #add links from current API page to file...
+        $songLinks | out-file ".\SearchResults_$($pattern)-pg$($i).txt" -Force
+        $songIndex = $startIndex+$i*500
+        write-host "[PAGE: $($i) | SONGS: $($indx)]" -ForegroundColor Green -NoNewline
+        write-host " SongIndex = $($songIndex)" -ForegroundColor Red
+        $sIndx++
+    }##END## API PAGE LOOP ################################################
+
+    $songLinks | out-file ".\SearchResults_$($pattern)-FULL.txt" -Force -Append
+    #$pageCount += $songIndex | out-file H:\.midi\PageCount.txt -Force
+    return ConvertTo-Json -InputObject (invoke-restmethod -uri "https://www.songsterr.com/api/songs?size=500&from=0&inst=drum&pattern=$($pattern)") -depth 10 | out-file TEMPFILE.json
+}
+
+
+
 ########################################################
 ## Search For Tabs By Artist Using Songsterr JSON API ##
 ########################################################
