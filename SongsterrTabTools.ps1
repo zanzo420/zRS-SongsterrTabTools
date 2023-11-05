@@ -49,11 +49,11 @@ function Get-SongsterrTabs($startIndex = 0)
     #$pageCount += $songIndex | out-file H:\.midi\PageCount.txt -Force
 }
 #function that gets json data from songsterr api and saves it to a file...
-function Search-Songsterr($pattern, $instrument = "any")
+function Search-Songsterr($pattern, $instrument = "any", $startIndex = 0)
 {
-    $data = ConvertTo-Json -InputObject (Invoke-RestMethod -Uri "https://www.songsterr.com/api/songs?size=500&from=0&inst=$($instrument)&pattern=$($pattern)") -depth 10 
+    $data = ConvertTo-Json -InputObject (Invoke-RestMethod -Uri "https://www.songsterr.com/api/songs?size=500&inst=$($instrument)&pattern=$($pattern)&from=$($startIndex)") -depth 10 
     $saveData = $data
-    $saveData | out-file TEMPFILE.json
+    $saveData | out-file "$($pattern)_searchResults.json"
     return ConvertFrom-Json -InputObject $data -Depth 10
 }
 
@@ -71,7 +71,7 @@ function Search-SongsterrTabs($pattern, $instrument = "any", $startIndex = 0)
     for($i=0; $i -lt $pageMax; $i++)
     {
         $webAPIDataPage = Invoke-RestMethod -Uri "$($apiURL)$($songIndex)" -UseBasicParsing
-        $results = ConvertFrom-Json -InputObject $webAPIDataPage -Depth 10 | out-file ".\SearchResults_$($pattern)-pg$($i).json" -Force
+        $results = ConvertFrom-Json -InputObject (ConvertTo-Json($webAPIDataPage) -Depth 10) -Depth 10 | out-file ".\SearchResults_$($pattern)-pg$($i).json" -Force
         write-host $results
         #loop through all songs in the JSON data...
         $indx = 0
