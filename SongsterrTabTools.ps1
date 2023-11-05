@@ -48,6 +48,14 @@ function Get-SongsterrTabs($startIndex = 0)
     $songLinks | out-file ".\SongLinks-FULL.txt" -Force -Append
     #$pageCount += $songIndex | out-file H:\.midi\PageCount.txt -Force
 }
+#function that gets json data from songsterr api and saves it to a file...
+function Search-Songsterr($pattern, $instrument = "any")
+{
+    $data = ConvertTo-Json -InputObject (Invoke-RestMethod -Uri "https://www.songsterr.com/api/songs?size=500&from=0&inst=$($instrument)&pattern=$($pattern)") -depth 10 
+    $saveData = $data
+    $saveData | out-file TEMPFILE.json
+    return ConvertFrom-Json -InputObject $data -Depth 10
+}
 
 function Search-SongsterrTabs($pattern, $instrument = "any", $startIndex = 0)
 {
